@@ -53,7 +53,8 @@ Then compile and install NumCpp
 
 ### compile and install discreture
 ```
->>> sudo apt-get install libboost-all-dev git build-essential >>> cmake
+>>> sudo apt-get install libboost-all-dev git build-essential 
+>>> cmake
 >>> git clone --recursive https://github.com/mraggi/discreture
 >>> cd discreture
 >>> mkdir build
